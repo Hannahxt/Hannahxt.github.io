@@ -8,4 +8,5 @@ summary: My first blog
 
 # **我的第一篇日志**
 
-![508518a4ae8e1](C:\Users\user\Desktop\自己收集图片\508518a4ae8e1.jpg)
+![508518a4ae8e1](../images/blog/508518a4ae8e1-1564907619913.jpg)
+
