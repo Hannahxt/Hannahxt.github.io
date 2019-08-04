@@ -11,7 +11,7 @@ description:
   subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/stijnvc/holo-alfa">&lt;/&gt; on Github</a>.
 
 author:
-  name: Dr. Jekyll # Change this!
+  name: Hannah He # Change this!
 
   # Necessary for contact page
   email: your@email.com # Change this!
@@ -140,7 +140,7 @@ highlighter: rouge
 kramdown:
   input: GFM
 paginate_path: "/page-:num/"
-permalink: pretty
+permalink: /:title/
 defaults:
   -
     scope:
